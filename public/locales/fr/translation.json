@@ -1,0 +1,84 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "search": "Rechercher...",
+    "filter": "Filtrer",
+    "actions": "Actions",
+    "status": "Statut",
+    "role": "Rôle",
+    "lastLogin": "Dernière connexion",
+    "export": "Exporter",
+    "recordsPerPage": "Enregistrements par page",
+    "showing": "Affichage de {{start}} - {{end}} sur {{total}}"
+  },
+  "auth": {
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "forgotPassword": "Mot de passe oublié",
+    "rememberMe": "Se souvenir de moi"
+  },
+  "user": {
+    "management": "Gestion des utilisateurs",
+    "list": "Liste des utilisateurs",
+    "create": "Créer un utilisateur",
+    "edit": "Modifier l'utilisateur",
+    "details": "Détails de l'utilisateur",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "fullName": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "role": "Rôle",
+    "status": "Statut",
+    "lastLogin": "Dernière connexion",
+    "created": "Créé le",
+    "updated": "Mis à jour le",
+    "permissions": "Permissions",
+    "active": "Actif",
+    "inactive": "Inactif",
+    "blocked": "Bloqué"
+  },
+  "chat": {
+    "title": "Chat",
+    "newMessage": "Nouveau message",
+    "sendMessage": "Envoyer le message",
+    "typing": "écrit...",
+    "online": "En ligne",
+    "offline": "Hors ligne",
+    "loadMore": "Charger plus",
+    "attachFile": "Joindre un fichier",
+    "notifications": "Notifications",
+    "sound": "Son",
+    "messageSearch": "Rechercher dans les messages"
+  },
+  "roles": {
+    "admin": "Administrateur",
+    "manager": "Gestionnaire",
+    "user": "Utilisateur"
+  },
+  "permissions": {
+    "users": {
+      "view": "Voir les utilisateurs",
+      "create": "Créer des utilisateurs",
+      "edit": "Modifier les utilisateurs",
+      "delete": "Supprimer les utilisateurs"
+    },
+    "roles": {
+      "view": "Voir les rôles",
+      "create": "Créer des rôles",
+      "edit": "Modifier les rôles",
+      "delete": "Supprimer les rôles"
+    }
+  }
+}
