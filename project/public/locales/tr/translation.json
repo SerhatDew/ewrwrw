@@ -1,0 +1,84 @@
+{
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "create": "Oluştur",
+    "search": "Ara...",
+    "filter": "Filtrele",
+    "actions": "İşlemler",
+    "status": "Durum",
+    "role": "Rol",
+    "lastLogin": "Son Giriş",
+    "export": "Dışa Aktar",
+    "recordsPerPage": "Sayfa başına kayıt",
+    "showing": "Gösteriliyor {{start}} - {{end}} / {{total}}"
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "logout": "Çıkış Yap",
+    "email": "E-posta",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi Onayla",
+    "forgotPassword": "Şifremi Unuttum",
+    "rememberMe": "Beni Hatırla"
+  },
+  "user": {
+    "management": "Kullanıcı Yönetimi",
+    "list": "Kullanıcı Listesi",
+    "create": "Yeni Kullanıcı",
+    "edit": "Kullanıcı Düzenle",
+    "details": "Kullanıcı Detayları",
+    "firstName": "Ad",
+    "lastName": "Soyad",
+    "fullName": "Ad Soyad",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "role": "Rol",
+    "status": "Durum",
+    "lastLogin": "Son Giriş",
+    "created": "Oluşturulma",
+    "updated": "Güncellenme",
+    "permissions": "İzinler",
+    "active": "Aktif",
+    "inactive": "Pasif",
+    "blocked": "Engellenmiş"
+  },
+  "chat": {
+    "title": "Sohbet",
+    "newMessage": "Yeni Mesaj",
+    "sendMessage": "Mesaj Gönder",
+    "typing": "yazıyor...",
+    "online": "Çevrimiçi",
+    "offline": "Çevrimdışı",
+    "loadMore": "Daha Fazla Yükle",
+    "attachFile": "Dosya Ekle",
+    "notifications": "Bildirimler",
+    "sound": "Ses",
+    "messageSearch": "Mesajlarda Ara"
+  },
+  "roles": {
+    "admin": "Yönetici",
+    "manager": "Müdür",
+    "user": "Kullanıcı"
+  },
+  "permissions": {
+    "users": {
+      "view": "Kullanıcıları Görüntüleme",
+      "create": "Kullanıcı Oluşturma",
+      "edit": "Kullanıcı Düzenleme",
+      "delete": "Kullanıcı Silme"
+    },
+    "roles": {
+      "view": "Rolleri Görüntüleme",
+      "create": "Rol Oluşturma",
+      "edit": "Rol Düzenleme",
+      "delete": "Rol Silme"
+    }
+  }
+}

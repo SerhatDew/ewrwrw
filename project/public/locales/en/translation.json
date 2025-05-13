@@ -1,0 +1,84 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search...",
+    "filter": "Filter",
+    "actions": "Actions",
+    "status": "Status",
+    "role": "Role",
+    "lastLogin": "Last Login",
+    "export": "Export",
+    "recordsPerPage": "Records per page",
+    "showing": "Showing {{start}} - {{end}} of {{total}}"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password",
+    "rememberMe": "Remember Me"
+  },
+  "user": {
+    "management": "User Management",
+    "list": "User List",
+    "create": "Create User",
+    "edit": "Edit User",
+    "details": "User Details",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "role": "Role",
+    "status": "Status",
+    "lastLogin": "Last Login",
+    "created": "Created",
+    "updated": "Updated",
+    "permissions": "Permissions",
+    "active": "Active",
+    "inactive": "Inactive",
+    "blocked": "Blocked"
+  },
+  "chat": {
+    "title": "Chat",
+    "newMessage": "New Message",
+    "sendMessage": "Send Message",
+    "typing": "typing...",
+    "online": "Online",
+    "offline": "Offline",
+    "loadMore": "Load More",
+    "attachFile": "Attach File",
+    "notifications": "Notifications",
+    "sound": "Sound",
+    "messageSearch": "Search Messages"
+  },
+  "roles": {
+    "admin": "Administrator",
+    "manager": "Manager",
+    "user": "User"
+  },
+  "permissions": {
+    "users": {
+      "view": "View Users",
+      "create": "Create Users",
+      "edit": "Edit Users",
+      "delete": "Delete Users"
+    },
+    "roles": {
+      "view": "View Roles",
+      "create": "Create Roles",
+      "edit": "Edit Roles",
+      "delete": "Delete Roles"
+    }
+  }
+}
